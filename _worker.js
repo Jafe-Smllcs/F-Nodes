@@ -8,7 +8,7 @@ let userID = 'bc8c8e7e-7800-435b-9e70-ae80c9ce15d2';
 
 // const proxyIPs = ["[2001:67c:2960:6464::6812:cae8]"]; // ['cdn-all.xn--b6gac.eu.org', 'cdn.xn--b6gac.eu.org', 'cdn-b100.xn--b6gac.eu.org', 'edgetunnel.anycast.eu.org', 'cdn.anycast.eu.org'];
 // let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
-let proxyIP = '66.96.146.90';
+let proxyIP = '192.177.76.16';
 
 let dohURL = 'https://sky.rethinkdns.com/1:-Pf_____9_8A_AMAIgE8kMABVDDmKOHTAKg='; // https://cloudflare-dns.com/dns-query or https://dns.google/dns-query
 
